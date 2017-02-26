@@ -1,0 +1,54 @@
+1488072118659	geckodriver	INFO	Listening on 127.0.0.1:49220
+1488072119823	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4DojKCfXqSpc
+1488072119824	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488072119847	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41680
+1488072124853	Marionette	INFO	Listening on port 41680
+1488072128914	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488077659930	geckodriver	INFO	Listening on 127.0.0.1:56567
+1488077661058	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bdR1Oh4WH9EV
+1488077661059	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488077661061	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36979
+1488077661846	Marionette	INFO	Listening on port 36979
+1488077664854	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Parent 3141] WARNING: pipe error: Broken pipe: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 687
+1488077845587	geckodriver	INFO	Listening on 127.0.0.1:50085
+1488077846729	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bbI1XhruDC7G
+1488077846729	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488077846732	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39840
+1488077847539	Marionette	INFO	Listening on port 39840
+1488077850382	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 4966] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 4966] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 4966] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 4966] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488078134178	geckodriver	INFO	Listening on 127.0.0.1:48457
+1488078135268	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.8zCrBUH0DKsd
+1488078135268	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488078135271	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43536
+1488078136078	Marionette	INFO	Listening on port 43536
+1488078138798	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5306] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5306] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1488079566633	geckodriver	INFO	Listening on 127.0.0.1:49763
+1488079567725	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HwwM7yO1vL1S
+1488079567726	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488079567729	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38598
+1488079568638	Marionette	INFO	Listening on port 38598
+1488079571576	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 6513] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6513] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
